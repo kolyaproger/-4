@@ -1,0 +1,13 @@
+C:\Users\Антон\Desktop\OOP_LB4-master\OOP_LB4\bin\Debug\netcoreapp3.1\OOP_LB4_1-3_task.exe
+C:\Users\Антон\Desktop\OOP_LB4-master\OOP_LB4\bin\Debug\netcoreapp3.1\OOP_LB4_1-3_task.deps.json
+C:\Users\Антон\Desktop\OOP_LB4-master\OOP_LB4\bin\Debug\netcoreapp3.1\OOP_LB4_1-3_task.runtimeconfig.json
+C:\Users\Антон\Desktop\OOP_LB4-master\OOP_LB4\bin\Debug\netcoreapp3.1\OOP_LB4_1-3_task.runtimeconfig.dev.json
+C:\Users\Антон\Desktop\OOP_LB4-master\OOP_LB4\bin\Debug\netcoreapp3.1\OOP_LB4_1-3_task.dll
+C:\Users\Антон\Desktop\OOP_LB4-master\OOP_LB4\bin\Debug\netcoreapp3.1\OOP_LB4_1-3_task.pdb
+C:\Users\Антон\Desktop\OOP_LB4-master\OOP_LB4\obj\Debug\netcoreapp3.1\OOP_LB4_1-3_task.csprojAssemblyReference.cache
+C:\Users\Антон\Desktop\OOP_LB4-master\OOP_LB4\obj\Debug\netcoreapp3.1\OOP_LB4_1-3_task.AssemblyInfoInputs.cache
+C:\Users\Антон\Desktop\OOP_LB4-master\OOP_LB4\obj\Debug\netcoreapp3.1\OOP_LB4_1-3_task.AssemblyInfo.cs
+C:\Users\Антон\Desktop\OOP_LB4-master\OOP_LB4\obj\Debug\netcoreapp3.1\OOP_LB4_1-3_task.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\OOP_LB4-master\OOP_LB4\obj\Debug\netcoreapp3.1\OOP_LB4_1-3_task.dll
+C:\Users\Антон\Desktop\OOP_LB4-master\OOP_LB4\obj\Debug\netcoreapp3.1\OOP_LB4_1-3_task.pdb
+C:\Users\Антон\Desktop\OOP_LB4-master\OOP_LB4\obj\Debug\netcoreapp3.1\OOP_LB4_1-3_task.genruntimeconfig.cache
